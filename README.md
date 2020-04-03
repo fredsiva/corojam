@@ -1,5 +1,5 @@
 # corojam
-Documentation pour utiliser Jamulus et jouer de la musique ensemble sur internet
+Documentation pour utiliser Jamulus et jouer de la musique ensemble sur internet, ce n'est pas très compliqué.
 
 ## Lire dans l'ordre:
   1. [Pre-requis](https://github.com/fredsiva/corojam/blob/master/readme_1_pre_requis.md)
