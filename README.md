@@ -9,6 +9,7 @@ Documentation pour utiliser Jamulus et jouer de la musique ensemble sur internet
   1. [Branchements](https://github.com/fredsiva/corojam/blob/master/readme_5_branchements.md)
   1. [Test](https://github.com/fredsiva/corojam/blob/master/readme_6_tests.md)
   1. [Jam](https://github.com/fredsiva/corojam/blob/master/readme_7_jam.md)
+  1. [Resolution des problème classiques](https://github.com/fredsiva/corojam/blob/master/readme_8_problems.md)
   
 ## Setup
 
