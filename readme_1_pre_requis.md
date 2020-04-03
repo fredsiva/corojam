@@ -5,7 +5,7 @@
   * un bon casque audio, muni d'un long cable pour se placer derrière son instrument. (Allonges facile à trouver)
 
 **Pré-requis pour une bonne qualité:**
-  * une interface audio USB externe (beaucoup plus rapide).  Un zoom H2/H4 peut aussi marcher
+  * une interface audio USB externe (beaucoup plus rapide, une UM2 à 33EUR suffit).  Un zoom H2/H4 peut aussi marcher
   * un splitter pour les laptops combinant la prise micro et casque (Macbook par exemple), et sans interface Audio externe
   * un cable ethernet pour se raccorder au routeur sans WIFI un bon micro chant (SM58) ou instrument (SM57)
 
