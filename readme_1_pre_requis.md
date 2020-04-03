@@ -1,3 +1,5 @@
+Je commence par la bonne nouvelle: pas de gros investissements à faire, si même vous n'avez pas d'ordinateur, il est possible de se connecter pour disons 200EUR (Un Pi, une interface audio, un micro et les cables)
+
 **Pré-requis minimum absolu:**
   * une bonne connection internet, les enfants au lit
   * un ordinateur (pas de smartphone): Windows, Mac, Linux (un peu plus sport) 
