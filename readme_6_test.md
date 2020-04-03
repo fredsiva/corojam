@@ -2,6 +2,7 @@
 
 Une fois l'installation et la configuration terminée, il est temps de se brancher sur un serveur, et vérifier que l'on entend son instrument et/ou sa voix dans le casque!
 
+## Connection
 Dans Jamulus, cliquer sur "Connect", et choisir soit le "Test Server", soit n'importe quel serveur qui compte zero musiciens.  N'allez pas sur un serveur occupé par des musiciens, vous allez les déranger en plein travail!
 
 Une fois connecté, votre nom devrait apparaitre dans la moitié droite de l'écran noir de Jamulus
@@ -9,7 +10,7 @@ Une fois connecté, votre nom devrait apparaitre dans la moitié droite de l'éc
 
 Au dessus de votre nom se trouve le curseur de volume du retour de votre propre son.
 
-##Jouer
+## Jouer
 Essayer de jouer, ou parler dans le micro, vous devez:
 1. voir les vu-mêtre L/R s'allumer de bas en haut.  Régler la puissance des micros pour ne pas dépasser la zone verte.
 1. vous entendre dans le casque (bien régler le volume soit via l'ordi soit via l'interface audio)
