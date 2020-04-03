@@ -5,10 +5,10 @@
   * un bon casque audio, muni d'un long cable pour se placer derrière son instrument. (Allonges facile à trouver)
 
 **Pré-requis pour une bonne qualité:**
-  1. une interface audio USB externe (beaucoup plus rapide).  Un zoom H2/H4 peut aussi marcher
-  2. un splitter pour les laptops combinant la prise micro et casque (Macbook par exemple), et sans interface Audio externe
-  3. un cable ethernet pour se raccorder au routeur sans WIFI un bon micro chant (SM58) ou instrument (SM57)
+  * une interface audio USB externe (beaucoup plus rapide).  Un zoom H2/H4 peut aussi marcher
+  * un splitter pour les laptops combinant la prise micro et casque (Macbook par exemple), et sans interface Audio externe
+  * un cable ethernet pour se raccorder au routeur sans WIFI un bon micro chant (SM58) ou instrument (SM57)
 
 **Pré-requis pour le grand confort:**
-  1. une petite table de mixage pour mélanger l'entrée du micro de discussion et l'instrument
-  2. un top micro style SM58 (chant) ou 57 (instrument)
+  * une petite table de mixage pour mélanger l'entrée du micro de discussion et l'instrument
+  * un top micro style SM58 (chant) ou 57 (instrument)
