@@ -23,7 +23,7 @@ Le grand confort, une table de mixage, un H4 comme interface Audio, et un mini-o
 ![Mix](https://github.com/fredsiva/corojam/blob/master/setup_H4_table.JPG)
 
 
-#Remerciements
+# Remerciements
 
 Un grand merci aux concepteurs de Jamulus, en particulier Volker.
 
