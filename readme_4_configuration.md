@@ -9,6 +9,8 @@ Une fois Jamulus lancé, il faut:
     1. Audio quality sur Normal
 1. Quitter et redémarrer Jamulus, sinon le Buffer Delay pourrait ne pas être bien défini
 
+Dans l'écran principal de Jamulus (Noir), mettre la Reverb à zero.
+
 Ensuite lier Jamulus aux bonnes entrées et Sortie (la partie délicate):
 1. Si une interface audio est utilisée, la sélectionner dans la liste
 2. si on travaille avec le micro intégré, le choisir dans la liste
