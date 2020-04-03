@@ -5,7 +5,8 @@ Une fois l'installation et la configuration terminée, il est temps de se branch
 ## Connection
 Dans Jamulus, cliquer sur "Connect", et choisir soit le "Test Server", soit n'importe quel serveur qui compte zero musiciens.  N'allez pas sur un serveur occupé par des musiciens, vous allez les déranger en plein travail!
 
-Une fois connecté, votre nom devrait apparaitre dans la moitié droite de l'écran noir de Jamulus
+Une fois connecté, votre nom devrait apparaitre dans la moitié droite de l'écran noir de Jamulus (Je suis ici connecté au serveur nommé "Jeroen")
+
 ![jamulus](jamulus_desktop.jpg)
 
 Au dessus de votre nom se trouve le curseur de volume du retour de votre propre son.
