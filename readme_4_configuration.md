@@ -1,5 +1,13 @@
 # Configuration
 
+## Audio
+Si vous utilisez une carte Audio USB, il faut la configurer à 48Khz (et surtout pas 44khz)
+
+## Réseau
+Si vous utilisez un cable Ethernet (fortement conseillé), il faut couper le WIFI de l'ordinateur, et vérifier via un Browser que vous avez bien accès à Internet via le cable
+
+## Jamulus
+
 Une fois Jamulus lancé, il faut:
 1. ouvrir la fenêtre "My Profile" et renseigner son nom 
 1. ouvrir la fenêtre "settings" et 
