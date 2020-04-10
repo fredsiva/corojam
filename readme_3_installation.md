@@ -11,7 +11,7 @@ Le site complet de Jamulus est [ici](http://llcon.sourceforge.net), avec le [for
 
 # Windows PC
 
-[Instructions détaillées pour windows 10](https://github.com/fredsiva/corojam/blob/master/JamulusOnWindows)
+[Instructions détaillées pour windows 10](https://github.com/fredsiva/corojam/blob/master/JamulusOnWindows.md)
 
 1. suivre le lien "Download" sur le site de Jamulus, et attendre le téléchargement complet
 2. Autoriser l'installation malgré la provenance inconnue
